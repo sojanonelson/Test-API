@@ -1,5 +1,6 @@
 [
   {
+    "_id": "665732fa2c9a5f1a1d8b4571",
     "title": "Men's Casual Shirt",
     "description": "A stylish and comfortable casual shirt for everyday wear.",
     "stockQuantity": 150,
@@ -19,6 +20,7 @@
     ]
   },
   {
+    "_id": "665732fb2c9a5f1a1d8b4572",
     "title": "Women's Kurti",
     "description": "Elegant kurti perfect for both casual and festive occasions.",
     "stockQuantity": 80,
@@ -38,6 +40,7 @@
     ]
   },
   {
+    "_id": "665732fc2c9a5f1a1d8b4573",
     "title": "Kids' Printed T-Shirt",
     "description": "Soft and breathable T-shirt with fun prints for kids.",
     "stockQuantity": 200,
