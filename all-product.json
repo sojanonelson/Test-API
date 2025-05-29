@@ -1,0 +1,61 @@
+[
+  {
+    "_id": "665732fa2c9a5f1a1d8b4571",
+    "title": "Men's Casual Shirtttt",
+    "description": "A stylish and comfortable casual shirt for everyday wear.",
+    "stockQuantity": 150,
+    "color": "Navy Blue",
+    "productDetails": {
+      "type": "Shirt",
+      "fabric": "Cotton",
+      "idealFor": "Men",
+      "size": "L",
+      "netQuantity": "1"
+    },
+    "category": "66572fdc2c9a5f1a1d8b4567",
+    "review": ["66572fde2c9a5f1a1d8b4568", "66572fdf2c9a5f1a1d8b4569"],
+    "imageUrls": [
+      "https://example.com/images/shirt1.jpg",
+      "https://example.com/images/shirt2.jpg"
+    ]
+  },
+  {
+    "_id": "665732fb2c9a5f1a1d8b4572",
+    "title": "Women's Kurti",
+    "description": "Elegant kurti perfect for both casual and festive occasions.",
+    "stockQuantity": 80,
+    "color": "Peach",
+    "productDetails": {
+      "type": "Kurti",
+      "fabric": "Rayon",
+      "idealFor": "Women",
+      "size": "M",
+      "netQuantity": "1"
+    },
+    "category": "66572fdc2c9a5f1a1d8b4567",
+    "review": [],
+    "imageUrls": [
+      "https://example.com/images/kurti1.jpg",
+      "https://example.com/images/kurti2.jpg"
+    ]
+  },
+  {
+    "_id": "665732fc2c9a5f1a1d8b4573",
+    "title": "Kids' Printed T-Shirt",
+    "description": "Soft and breathable T-shirt with fun prints for kids.",
+    "stockQuantity": 200,
+    "color": "Yellow",
+    "productDetails": {
+      "type": "T-Shirt",
+      "fabric": "Polyester",
+      "idealFor": "Kids",
+      "size": "S",
+      "netQuantity": "1"
+    },
+    "category": "66572fdc2c9a5f1a1d8b4567",
+    "review": ["66572fde2c9a5f1a1d8b4570"],
+    "imageUrls": [
+      "https://example.com/images/kidstshirt1.jpg"
+    ]
+  }
+]
